@@ -2,8 +2,6 @@
 
 Practice files I've used to learn stuff.
 
-New files will be added regularly.
-
 ---
 
 - Visualizations includes a series of unusual data visualizations that I found quite interesting and plan on using in future projects.

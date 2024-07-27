@@ -1,0 +1,86 @@
+{
+    "technology": [
+        [
+            0,
+            1,
+            2
+        ],
+        [
+            2,
+            0,
+            1
+        ],
+        [
+            1,
+            2,
+            0
+        ],
+        [
+            0,
+            1,
+            2
+        ]
+    ],
+    "processing": [
+        {
+            "machine": 0,
+            "job": 0,
+            "time": 9
+        },
+        {
+            "machine": 0,
+            "job": 1,
+            "time": 10
+        },
+        {
+            "machine": 0,
+            "job": 2,
+            "time": 18
+        },
+        {
+            "machine": 0,
+            "job": 3,
+            "time": 14
+        },
+        {
+            "machine": 1,
+            "job": 0,
+            "time": 7
+        },
+        {
+            "machine": 1,
+            "job": 1,
+            "time": 16
+        },
+        {
+            "machine": 1,
+            "job": 2,
+            "time": 11
+        },
+        {
+            "machine": 1,
+            "job": 3,
+            "time": 15
+        },
+        {
+            "machine": 2,
+            "job": 0,
+            "time": 5
+        },
+        {
+            "machine": 2,
+            "job": 1,
+            "time": 10
+        },
+        {
+            "machine": 2,
+            "job": 2,
+            "time": 13
+        },
+        {
+            "machine": 2,
+            "job": 3,
+            "time": 17
+        }
+    ]
+}

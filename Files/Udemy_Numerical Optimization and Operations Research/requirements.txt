@@ -1,0 +1,10 @@
+numpy==1.24.*
+pandas==2.*
+scipy>=1.9
+pyomo>=6.6 __
+highspy==1.* __
+networkx==3.* __
+matplotlib==3.* 
+ortools==9.7.* __
+tspgrasp==0.1.* __
+ipykernel
